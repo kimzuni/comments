@@ -1,5 +1,5 @@
 {
   "origins": ["https://zuni.kim", "https://kimzuni.com"],
-  "originsRegex": ["https://*.zuni.kim", "https://*.kimzuni.com", "http://localhost:[0-9]+"],
+  "originsRegex": ["https://*.zuni.kim", "https://*.kimzuni.com", "http://localhost:[0-9]+", "http://192.168.0.*:[0-9]+"],
   "defaultCommentOrder": "newest"
 }
